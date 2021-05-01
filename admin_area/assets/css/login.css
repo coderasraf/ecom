@@ -1,0 +1,35 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    background: 
+    #108395;
+}
+.container {
+    width: 400px;
+    text-align:center;
+    background:#f9f9f9;
+	color:#fff;
+	display: grid;
+	max-width: 400px;
+	height: 400px;
+	box-shadow: 0 0 10px#ddd;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.form-login-heading {
+  color: #15b3cc;
+  font-weight: bold;
+  font-size: 40px;
+  text-shadow: 0 0 1px #fff;
+}
+.form-login h4 {
+  color: #15b3d0;
+  fonot-w: ;
+  font-weight: ;
+  font-weight: bold;
+}
